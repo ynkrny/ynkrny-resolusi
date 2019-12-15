@@ -2,6 +2,9 @@ rencana konten
 -javascript
   *ES6
   *frameworks
+  ^vue
+  ^react
 -Fundamental data dasar
 -interview
 -vlog
+-phyton
