@@ -3,6 +3,7 @@ rencana konten
   *ES6
   *frameworks
   ^vue
+  ^react
 -Fundamental data dasar
 -interview
 -vlog
