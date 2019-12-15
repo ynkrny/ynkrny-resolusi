@@ -2,6 +2,8 @@ rencana konten
 -javascript
   *ES6
   *frameworks
--Fundamental data dasar
+  ^angular
+  ^react
 -interview
 -vlog
+-laravel
