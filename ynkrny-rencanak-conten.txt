@@ -7,3 +7,6 @@ rencana konten
 -interview
 -vlog
 -laravel
+-interview
+-vlog
+-phyton
