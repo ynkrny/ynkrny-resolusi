@@ -2,5 +2,6 @@ rencana konten
 -javascript
   *ES6
   *frameworks
+-Fundamental data dasar
 -interview
 -vlog
